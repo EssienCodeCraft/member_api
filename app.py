@@ -5,8 +5,8 @@ from functools import wraps
 
 app = Flask(__name__)
 
-api_username = 'admin'
-api_password = 'admin'
+api_username = 'xxxx'
+api_password = 'xxxx'
 
 
 def protected(f):
@@ -108,4 +108,4 @@ def delete_member(member_id):
 
 
 if __name__ == '__main__':
-    	app.run(debug=True)
+    	app.run()
