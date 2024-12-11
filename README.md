@@ -1,3 +1,6 @@
-# ALX monty Project using data stuctures (C Language)
-
-* Monty ByteCode files
+# Member API Mini Project Python
+* Flask
+* SQLite
+* virtualenv
+* Jsonify
+* Request
